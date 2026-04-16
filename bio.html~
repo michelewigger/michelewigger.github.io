@@ -1,0 +1,100 @@
+ 
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title> Michele Wigger's Webpage </title>
+<link rel="stylesheet" href="mwigger.css" type="text/css" />
+
+
+
+
+<STYLE TYPE="text/css">
+<!--
+BODY
+   {
+   Margin:20px 20px 20px 20px;
+  background:#fff;
+   color:black;
+   font-size:12pt;
+    }
+-->
+</STYLE>
+<STYLE TYPE="text/css">
+<!--
+TABLE
+   {
+  margin:20px 20px 20px 20px;
+   color:black;
+   font-size:12pt;
+   
+   }
+-->
+</STYLE>
+
+  </head>
+
+  <body>
+  
+
+<div id="sidebar">
+
+
+<div id="biopicture">
+<img src="telecom.jpg" width=110/>
+</div>
+
+
+<div class="sidebarlist">
+
+<BR>
+<BR>
+
+<BR><BR>
+
+<a href="./index.html">Home</a><br />
+<br>
+<a href="./publications.html">Publications</a><br />
+<br>
+<A href="./presentations.html">Presentations</a><br />
+<br>
+<a href="./group.html">Research Group</a><br />
+<br >
+<a href="./bio.html">Bio</a><br/>
+</div>
+
+<BR><BR><BR>
+<div id="biopicture">
+<img src="paristech.jpg" width=150/>
+</div>
+</div> <!-- end sidebar -->
+
+<Div id="content">
+<HR>
+
+<BR>
+<table BORDER=00 cellpadding=5>
+  <tr>
+    <td width=20>
+  
+
+</td>
+<td width=500>
+  
+<h3>   <b>Short Bio:</b> </h3>
+<br>
+
+Mich&egravele Wigger received the M.Sc. degree in electrical engineering, with distinction, and the Ph.D. degree in electrical engineering both from ETH Zurich in 2003 and 2008, respectively. She was awarded two ETH Medals, one for her Master Thesis and one for her PhD Thesis. Dr. Wigger received a Swiss National Science Foundation Scholarship for Prospective Researchers, and in 2009 was a post-doctoral fellow at the University of California, San Diego, USA. She has held visiting professor appointments at the Technion-Israel Institute of Technology and ETH Zurich. She joined Telecom Paris Tech, Paris France in 2009 where she is currently an Associate Professor.  
+
+Dr. Wigger has been an associate editor for the IEEE Transactions on Information Theory and the IEEE Communications Letters. She has served as a TPC member for numerous conferences in information theory and communications (e.g., ISIT 2012-2017; ITW 2015 and 2017; PIMRC 2013-2015). She is a member of the  Board of Governors of the IEEE Information Theory Society, and also of its outreach subcommittee.  
+
+   Funding accomplishments include an Emergences Grant from the city of Paris, a Discruptive-ICT grant from Huawei, and an ERC Starting Grant.
+   
+     <Br> <br>
+
+<a NAME="jp"></a>
+	  
+<br><br><br><br>
+<Br><HR>
+
+</div>
+  </body>
+</html>
