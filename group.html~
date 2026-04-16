@@ -1,0 +1,187 @@
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <meta name="Description" content="Homepage of Michele Wigger">
+      <title>Michele Wigger's Research Group</title>
+<link rel="stylesheet" href="mwigger.css" type="text/css" />
+
+
+
+
+<STYLE TYPE="text/css">
+<!--
+BODY
+   {
+   Margin:20px 20px 20px 20px;
+  background:#fff;
+   color:black;
+   font-size:12pt;
+    }
+-->
+</STYLE>
+<STYLE TYPE="text/css">
+<!--
+TABLE
+   {
+  margin:20px 20px 20px 20px;
+   color:black;
+   font-size:12pt;
+   
+   }
+-->
+</STYLE>
+
+  </head>
+
+  <body>
+  
+
+
+<div id="sidebar">
+
+
+<div id="biopicture">
+
+</div>
+
+
+<div class="sidebarlist">
+
+<BR>
+<BR>
+
+
+<a href="./index.html">Home</a><br />
+<br>
+<a href="./publications.html">Publications</a><br />
+<br>
+<A href="./presentations.html">Presentations</a><br />
+<br>
+<a href="./teaching.html">Teaching</a><br />
+<br>
+<a href="./group.html">Research Group</a><br />
+
+<br>
+<a href="./Context-Task-Oriented_Communication/Context-Task-Oriented_Communication_page.html">ERC Starting Grant</a><br><a href="./Context-Task-Oriented_Communication/Context-Task-Oriented_Communication_page.html">
+  Project CTO Com</a><br/><br>
+
+</div>
+
+<BR><BR><BR>
+<div id="biopicture">
+  <img src="logo_TPT.png" width=162>
+</div>
+</div> <!-- end sidebar -->
+
+
+<div id="content">
+
+<HR>
+
+
+
+
+
+<p>
+  <b><font size=+2>Research Group</font></b>
+  </p>
+<br>
+
+Prof. <a href=https://ysteinbe.net.technion.ac.il/>Yossef Steinberg</a> from the Technion is a visiting faculty in our group from April to October 2025.
+
+
+
+<b><font size=+1>Current PhD Student and PostDocs</font></b>
+<p>
+ 
+<li>Hui-An Shen, Postdoc. Since Nov. 2024.  Jointly sypervised with Robert Graczyk.
+</li>
+<li>Cecile Bouette, Postdoc. Since Feb. 2025.  
+</li>
+<li>Ismaila Salihou Adamou, Postdoc. Since March 2025.
+</li>
+<li>Yue Bi, Postdoc. Since May 2025.
+</li>
+
+
+
+<li>Nicolas Le Gouic, PhD student. Jointly sypervised with Robert Graczyk.
+</li>
+<li>Thomas Sturma, PhD student. 
+</li>
+<li>Basile Buffin, PhD student. Jointly supervised with Mireille Sarkiss, Telecom SudParis.
+</li>
+<li>Yiyang Bai, PhD student. Jointly supervised with Elie Awwad, Telecom Paris. 
+</li>
+<li>Hossein Atrsaei, PhD track Master student. Jointly supervised with Mireille Sarkiss, Telecom SudParis.  
+</li>
+<li>Mathis Wetterwald,  Master student.   
+</li>
+<li>Zain Ul Hassan,   Master student.   
+</li>
+  
+</p>
+P
+
+
+
+<BR>
+
+
+
+
+<BR><br>
+
+<b><font size=+1>Former PhD Students and PostDocs</font></b>
+<BR>
+
+
+
+<p>
+  <li>Abdelaziz Bounhar: former PhD student.  Jointly sypervised with Mireille Sarkiss, Telecom SudParis. Now working as an AI Research Engineer at MBZUAI Paris Lab.
+</li>
+ <li>Yue Bi: former PhD student, Oct. 2020--Sep.2022. Jointly supervised with Philippe Ciblat, Telecom Paris.</li> 
+<li>Mehrasa Ahmadipour:former  PhD student July 2019--Nov. 2022. Now a PostDoc at ENS Lyon.</li>
+  <li>Mustapha Hamad: former PhD student  March. 2019--July 2022. Jointly supervised with Mireille Sarkiss, Telecom SudParis. Now a Research Engineer at Huawei Technologies.</li>
+
+ 
+  <li>Shuai Ma: former PostDoc  Nov. 2021--Luly 2023. Now a faculty at  China Universtiy of Mining and Techology.</li>
+
+  
+  <li>David Kibloff: former PostDoc, March 2020--Feb. 2021.
+<li> Othmane Oubejja:  research engineer, Mar.--Dec. 2020. Working on testbed implementations <a href=http://www.cortexlab.fr/?page_id=2>CorTex testbed</a> at INSA Lyon.
+
+    <li> Haoyue Tang: visiting in January-March 2019 and January-September 2020 as a visting PhD student. Jointly supervised with  Philippe Ciblat, Telecom ParisTech. Now a faculty at  University of Hawaii and a research scientist at META Platforms. </li>
+<li>Homa Nikbakht: former PhD student, graduated December 2020. Now a PostDoc at Princeton University</li>
+<li>Pierre Escamilla: former  PhD student, graduated December 2019.  Jointly supervised with Abdellatif Zaidi, Huawei Algorithmic Research Lab, France. Now working for Nokia.
+</li>
+  <li> Longguang Li: former  PhD student, graduated July 2019. Jointly supervised with Stefan Moser, National Chiao Tung University (NCTU), Taiwan, and ETH Zurich, Switzerland.  Now a faculty at SJTU Paris Elite Institute of Technology,
+Shanghai Jiao Tong University </li>
+<li>Qifa Yan: PostDoc 2017--2019. Jointly supervised with Sheng Yang, CentraleSupelec, France. Now a faculty at Southwest Jiaotong University.</li>
+
+<li> K. G. Nagananda: PostDoc 2018--2019. Now working in industry.</li>
+<li>Samet Gelincik: former PhD student, started October 2016. Jointly supervised with Ligong Wang, ETIS Laboratory, University of Cergy-Pontoise, France.</li>
+  <li>Sarah Kamel: PostDoc 2017--2018. Now working in industry at Huawei  Algorithmics Research Lab.</li>
+
+
+<li>
+  <a href=http://islab.ut.ac.ir/>Sadaf Salehkalaibar</a>:  PostDoc in 2015. Now a faculty at Tehran University, Iran.</li>
+ <li>  Chien-Yi Wang:   PostDoc in 2016.  Jointly supervised by Abdellatif Zaidi, Huawei Algorithmics Research Lab. Now working in industry.</li>
+  <li> Selma Belhadj Amor former PhD student, graduated in March 2015. Now working in industry. 
+  </li>
+
+  <li> <a href=http://sist.shanghaitech.edu.cn/faculty/wyl/>Youlong Wu</a>: former PhD student, graduated in Oct. 2015. Now associate professor  at ShanghaiTech.</a>
+  </li>
+
+  <li> Thomas Laich: former Master thesis student, graduated in Dec. 2012.
+  </li>
+
+  <li> Andreas Mal&aumlr: former Master thesis student, graduated in Dec. 2011.
+    </li>
+</p>
+<BR>
+
+
+
+
+</div>
