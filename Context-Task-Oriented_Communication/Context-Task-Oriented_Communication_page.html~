@@ -1,0 +1,223 @@
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <meta name="Description" content="ERC Starting Grant Project CTO Com">
+      <title>ERC Starting Grant Project CTO Com</title>
+<link rel="stylesheet" href="../mwigger.css" type="text/css" />
+
+
+
+
+<STYLE TYPE="text/css">
+<!--
+BODY
+   {
+   Margin:20px 20px 20px 20px;
+  background:#fff;
+   color:black;
+   font-size:12pt;
+    }
+-->
+</STYLE>
+<STYLE TYPE="text/css">
+<!--
+TABLE
+   {
+  margin:20px 20px 20px 20px;
+   color:black;
+   font-size:12pt;
+   
+   }
+-->
+</STYLE>
+
+  </head>
+
+  <body>
+  
+
+
+<div class="sidebarlist">
+
+<BR>
+<BR>
+
+
+<a href="../index.html">Home</a><br />
+<br>
+<a href="../publications.html">Publications</a><br />
+<br>
+<A href="../presentations.html">Presentations</a><br />
+<br>
+<a href="../group.hml">Research Group</a><br />
+
+<br>
+<a href="./Context-Task-Oriented_Communication_page.html">ERC Starting Grant</a><br><a href="./-Task-Oriented_Communication_page.html">
+  Project CTO Com</a><br/><br>
+
+</div>
+
+<BR><BR><BR>
+<div id="biopicture">
+  <img src="../logo_TPT.png" width=152>
+</div>
+</div> <!-- end sidebar -->
+
+
+<div id="content">
+
+  
+
+  
+
+  
+<p>
+  <b><font size=+3>Context- and Task-Oriented Communication</font><font size=+3> (CTO Com)</font></b><br>
+   <b><font size=+2>ERC Starting Grant Project May 2017 - April 2022</font></b>
+</p>
+<font size=+1>
+  Emergence of a large number of distributed decision and control systems (e.g., in health care, transportation, and energy management), combined with increasing demands of traditional communications (e.g., due to multiview videos), create an imminent need for highly improved communication systems. Context- and/or task-oriented communication techniques, can  be a fundamental part of future solutions. Context-oriented communication techniques take into account, and optimally exploit, the complex infrastructures of future networks such as cache-memories or  cloud-RANs, and adapt to the specific constraints of emerging communication systems such as visible-light communication or heterogeneous traffic types. Task-oriented communication techniques (also known as semantic communication) optimally adapt to the final task of a communication which in modern systems often differs from traditional transmission of data. They promise substantial gains especially for distributed decision or control systems, where the final decisions or control actions take value in a much smaller range than the observed signals. <br><br>
+
+  Below we describe our advances on context- and task-oriented communcation systems that we achieved in our ERC project CTO Com. A complete list of all people who have contributed  to  these advances can be found <a href=list.html>here</a>, and a complete list of all publications produced during the project  can be found <a href=list.html#publications>here</a> (ordered by theme). 
+</font>
+
+  <h2>Cache-Aided Systems</h2>
+<p>
+  
+
+<img src="Caching_schema.png" alt="cache" width="420" height="260">
+<font size=+1>A large part of our internet consumption
+  concerns only few popular videos and newspapers that can well be predicted in function of the geographical area and the time of the day. Putting in place a system of area-wide distributed caches where popular contents can be pre-stored, seems necessary  to satisfy future demands in rates, delays, and energy consumption. Previous results showed that in the presence of cache memories, smart placement and coding  techiques can yield significant performance gains.  We extended these works to the more practical scenario with noisy communication channels and we were  <a href=../ISWCS_caching.pdf>the first group to show</a>  that further gains are possible by employing techniques from joint source-channel coding.  Intuitively, the gains are achieved because through joint source-channel coding users cannot only profit from their own cache memories but also from other users cache memories.
+
+  <br><br>
+  <img src="Caching_Plot.png" alt="cache_plot" width="330" height="300"> Our proposed <a  href=../Saeedi-TIT2018.pdf><i>piggyback codes</i></a> can improve the caching-gains by up to 40%  over previous codes. As we  <a href=../Kamel-TIT2019.pdf>showed</a>, the performance remains almost unchanged also under secrecy requirements, i.e., when the communication needs to be kept secret  from external eavesdroppers. We further showed that the gains provided by <i>joint source-channel coding</i> depend on the assignment of the cache memories across the users, and a smart cache-allocation allows to  achieve <a href=../Saeedi-TIT2019.pdf>even larger gains</a> compared to traditional caching implementations.
+
+  Our findings where validated through   <a href=../CorTex.pdf>real testbed measurements</a>. To this end,  we designed a natural and elegant implemention of piggyback coding using Polar codes and  an extended GRASP graph colouring algorithm combined with a bipartite matching algorithm. The latter is required to combine transmissions to cache-aided users with transmissions to cache-free users, a feature that can be implemented in our piggyback coding schemes but is completely absent in Maddah-Ali and Niesen's <a href=https://ieeexplore.ieee.org/document/6763007><i>standard coded caching schemes</i></a> and their variations. 
+ We also   derived the <a href=../saeediwiggertimo_Turbo2016.pdf>first information-theoretic converse result</a> for <i>noisy cache-aided broadcast channels</i>. These  bounds also provided <a href=../Wang-TIT2018.pdf>improved bounds</a> for the classical coded-caching setup based on noise-free channels. <br> <br>
+
+   Besides noisy channels, the classical coded-caching setup also ignored the correlation between the various files. Given information theory's  long tradition in compression systems with correlated sources, it is not surprising that the rich cache-aided compression problem can be tackled with tools from information theory. In our first work we completely characterized the fundamental performance limits of <a href=../Timo-TIT2018.pdf>lossy cache-aided single-user compression system</a> and showed connections to <i>common information measures</i> as well as to the classical Gray-Wyner source coding problem.  Recently, we also summarized the literature on lossy cache-aided compression systems in a <a href=https://shop.theiet.org/edge-caching-for-mobile-networks>book chapter</a>. <br>
+ 
+
+<br>
+  
+
+
+<p>
+	<b><font size=+2>Optical Wireless/Visible Light Communication</font></b>
+</p>
+<img src="visible_light_communication.jpg" alt="visible_light_communication" width="400" height="230">
+
+
+  
+
+
+ <font size=+1> 
+<i>Optical wireless communication</i> is a form of communication in which visible, infrared, or ultraviolet light is transmitted in free space (air or vacuum) to carry a message to its destination. Recent works suggest that it is a promising solution to replacing some of the existing radio-frequency
+(RF) wireless communication systems in order to prevent future rate bottlenecks. Particularly attractive are simple <i>intensity-modulation-direct-detection (IM-DD) systems</i>. In such  systems, the transmitter modulates the intensity of optical signals coming from light emitting diodes (LEDs) or laser diodes (LDs), and the receiver measures incoming optical intensities by means of photodetectors. The electrical output
+signals of the photodetectors are essentially proportional to the incoming optical intensities, but are corrupted by thermal noise of the photodetectors, by random intensity fluctuations inherent to low-cost LEDs and LDs, and shot noise caused by ambient light. 
+Particularly interesting in this context,  both from a theoretical as well as from a practical point of view,  are multi-antenna systems with more transmit antennas than receive antennas. The practical importance stems from the fact that  many lighting systems (especially in the public space) are already equipped with multiple LEDs and can thus naturally serve as transmit antennas. In contrast, receivers typically have to be specially equipped with photo detectors for the purpose of the communcation. To reduce installation costs, it is thus preferable to have only a small number of photo detectors. The theoretical interest of multi-antenna systems stems from their non-traditional power constraints, which renders the popular beamforming signaling approach suboptimal.<br><br>
+
+  <img src="FSO_ME.png" alt="visible_light_ME" width="440" height="230">
+In our  works we determined  <i>minimum-energy signaling methods</i> both for  <a href=miso_final.pdf>multiple-input single-output (MISO)</a> and for <a href=Li-IT2019.pdf>multiple-input  multiple-output (MIMO)</a> free-space optical channels. Remarkably, these minimum-energy signaling methods resemble enhanced versions of antenna index-modulation (spatial modulation),  where  non-selected antennas  are however set to either 0 or full power according to a precise algorithm.
+Our results on  minimum-energy signaling allowed us to obtain more efficient modulation schemes for these channels, and were a key tool for deriving tight bounds on the capacity of these channels and to determine the asymptotic capacity-behaviours in the low and high signal-to-noise ratio regimes. In a <a href=Li_Globecom2019.pdf>subsequent work</a>, we showed that performances close to capacity can be achieved with only few feedback bits describing which antennas have to be set to 0  and which to full power. Any additional feedback information related to the channel state thus provides only moderate advantage. Currently we are investigating the influence of both electrical and optical input power constraints on the capacity region. We <a href=MaWigger-ISIT2021.pdf>showed</a> for single-input single-output (SISO) channel that in most cases only one of the two constraints is stringent, which implies the optimality of simpler systems that are designed for only one of these constraints.<br>
+<br>
+
+
+<p>
+	<b><font size=+2>Mixed-Delay Traffic</font></b>
+</p>
+<img src="mixed_delay.jpg" alt="mixed_delay" width="400" height="230">
+<p>
+<font size=+1>Modern wireless networks have to accommodate a <i>heterogeneous traffic</i> composed of delay-sensitive and delay-tolerant data. For example, communication for remote surgery or other realtime control applications have much more stringent delay constraints than communication of standard data. In 5G and future 6G network,  ultra-reliable <i>low-latency communication</i> (URLLC) used for control applications is scheduled on the same frequency band as the enhanced mobile broadband  (eMBB) communication, which provides users with standard data, for example related to  video streaming. The standard scheduling approach of simply interrupting the traditional communication whenever low-latency communication is to  transmitted degrades the overall-system performance, because low-latency communication cannot be conveyed as efficiently as standard data. 
+  <br><br>
+  <img src="mixed_plot2.png" alt="mixed_plot" width="400" height="230">
+
+In our research mitigated this degradation partially or even  by designing joint communication schemes for both standard and low-latency communications. Our primary focus has been on <a href=MixedDelays.pdf>cooperative multi-user and multi-basestation (BS) networks</a> where the various users and/or BSs can cooperate with each other. In networks were both the transmitters  <b>and</b> the receivers can cooperate, our schemes even  approach the ideal overall system-performance as if only standard data was  communicated. The stringent delay-constraints on the low-latency communication thus do not harm the sum-rate that our joint coding schemes can achieve. As we show with  information-theoretic converse proofs,  <a href=Nikbakht-Entropy20.pdf>such an ideal performance is impossible</a> in the  considered networks when only transmitters or only receivers can cooperate.    The described findings hold for various cellular  network models such as <i>Wyner's linear and hexagonal models</i> as well as <i>sectorized networks</i> were cells are partitioned into three sectors by means of directional antennas.
+<br>
+<br>
+ Low-latency control communication is often very bursty, because triggered by  events of nature or user behaviour. In our most  <a href=Nikbakth-ITW2020.pdf>recent line of work</a> we analyze the influence of the burstiness of the arrivals. We show that also in such a setup, our proposed joint  coding schemes for standard and low-latency communication significantly outperforms traditional scheduling algorithms. Though the burstiness is known to harm communication performance in general, our joint schemes proved to be rather robust also to this nuisance.   <br><br>
+
+
+<p>
+	<b><font size=+2>Distributed Hypothesis Testing/Distributed Decision Systems</font></b>
+</p>
+<img src="Hypothesis_testing.png" alt="hypothesis_testing" width="400" height="230">
+
+Distributed decision systems are one of the main building blocks of the <i>Internet of Things (IoT)</i> and find applications in a wide range of domains such as health monitoring, infrastructure maintanance, natural catastrophy alarm systems, etc. In all these systems, a set of distributed sensors performs measurements and sends information about these observations to other sensors or directly to the final decision center. The goal of the communication is thus not the simple transmission of data, but to enable the final decision centers to correctly decide on the hypothesis underlying the system.
+Our focus in this project is in determining the fundamental performance limits of distributed decision systems and to propose optimal coding and testing schemes achieving these limits. We mostly focus on binary hypothesis testing problems and on the goal of <i>maximizing the exponential-decay rate of the probability of miss detection</i> under a constraint on the exponential-decay rate of the probability of false alarm. 
+<br><br>
+<img src="UEP.png" alt="hypothesis_testing" width="400" height="230">
+We considered both the canonical single-sensor single-decision problem, as well as more complicated models with multiple sensors, sensors that can communicate to the decision centers only over multiple hops, or multiple decision centers. For the single-sensor and single-decision center problem we were the first to consider arbitrary hypothesis tests and arbitrary channel laws for the communication from the sensor to the decision center. We <a href=Saleh-IT2020.pdf>proved</a> in particular that the hypothesis testing performance of such systems not only depends on the capacity of the communication channels, as preliminary results by other authors suggested, but on the  precise transition law of the channel. Moreover, employing  <i>unequal-error protection (UEP) mechanisms</i> allow to achieve a significant gain in the testing-performance. Other significant gains can be attained through an  <a href=Saleh-JSAIT2020.pdf>adaptive usage of the resources</a>, in case the constraint is on the expected usage of the resources (bandwidth) and not on the maximum usage. As we show through information-theoretic converse results, a simple coding and testing scheme where <a href=Hamad-ITW2021.pdf>the sensor  occupies only a negligible amount of resources</i> in well-defined events, achieves largest type-II error exponents. <br>
+<br>
+This result extends also to  systems with <a href=Salehkalaibaretal-Globecom2018.pdf>multiple sensors</a>,  <a href=Hamad-ITW2021.pdf>multiple decision centers</a>, and <a href=Hamad-ITW2020.pdf>multi-hop systems</a> where some of the sensors cannot directly communicate with the decision centers but communication has to be relayed through other sensors. For multi-hop systems we had already shown in a <a href=Saleh-TIT2019.pdf>previous work</a> that optimal performance can only be achieved if the relaying sensors forward their tentative decisions and these tentative decisions are considered as vetos by subsequent sensors.  For systems  with multiple decision centers   <a href=Saleh-TCOM2018.pdf>we illustrated</a> a performace tradeoff between the decisions at the various centers, which is caused by the shared communication resources to all centers. Surprisingly,  <a href=Escamilla-IT2019.pdf>this tradeoff can be mititaged</a> by exploiting the sensor's tentative decisions and to  accordingly prioritize one of the decision centers according. For certain communication links the tradeoff mitigation is perfect, whereas for others <a href=salehwigger21.pdf>a small tradeoff remains</a> because the decision centers can misunderstand the tentative decision and thus the prioritization. <br><br>
+
+
+
+  
+
+<p>
+	<b><font size=+2>Distributed Computing Systems</font></b>
+</p>
+<img src="stragglers.png" alt="distributed_computing" width="400" height="230">
+Different  computing architectures  have been proposed to distribute heavy computation tasks such as machine learning algorithms. In MapReduce systems,  for example, the data is distributed across nodes, and in a first map-phase the nodes compute intermediate values which they exchange with each other during the subsequent reduce phase. Each node finally recovers a subset of the desired computation results by applying so called reduce functions to its collected intermediate values.  
+Li et al. showed that the communication requirements of  <i>MapReduce systems</i> can significantly be reduced if files are stored  multiple times across different nodes in the map phase and multicast opportunities are exploited during the  shuffle phase. In fact, the <i>coded distributed computing (CDC) scheme</i> they proposed achieves an optimal tradeoff between the required storage- and communication-loads.<br><br>
+
+<img src="SCCtrade.png" alt="tradeoff" width="400" height="230">
+In our works we refined the CDC scheme so  as to achieve a <a href=Yan-IT2019.pdf>three-dimensional tradeoff</a> between the <i>optimal storage, communication, and computation loads</i>. As we further showed in our works, the optimal two-dimensional and three-dimensional tradeoffs can only be achieved with an exponential number of files, which might not be the case in practical implementations. To mitigate this bottleneck, we proposed suboptimal schemes that require only a significantly smaller number of files and still well-approach the optimal storage, communication, computationg tradeoff curve. Our schemes are based on <i>computational placement-delivery arrays (CPDA)</i>, which is a subclass of PDAs as introduced for caching systems, and on a general framework on how to convert  CPDAs to coded computing schemes<br>
+<br>
+
+
+
+A serious problem in distributed computing systems are nodes that straggle with calculating their intermediate values. In a traditional approach, a single straggling node would delay the results of all computations.  To prevent this delay, data is distributed accross more nodes, and the shuffle and reduce phases are started as soon as a sufficient number of nodes has terminated their computations. For such a system with  <a href=Yan-Tcom2019.pdf>straggling nodes</a> we characterized the fundamental two-dimensional tradeoff between storage and communication loads, and we again showed that  this fundamental tradeoff can only be achieved using 
+an exponentially large number of files. Using computational-PDA constructions we showed that points close to the fundamental tradeoff can be achieved with schemes that also work with a small number of files, thus allowing for a practical implementation of our straggler-robust schemes.<br><br>
+  <p>
+   
+
+
+</p>
+
+<p>
+	<b><font size=+2>Coordination and Sensing</font></b>
+</p>
+<img src="sensing_auto.png" alt="coordination_of_smart_agents" width="400" height="230">
+  <p>
+    Important applications require devices  to coordinate their actions with each other and with a random state so as to achieve a common goal. For example, in autonomous navigation systems, cars have to coordinate their speed and directions with each other and according to external obstacles. Another example are production sites of traditional and alternative energies that have to coordinate their energy productions with the consumptions of the users so as to ensure  stability of the power grid. In these applications, communication serves the task to coordinate the actions at the various terminals. The information-theoretic community has studied the set of distributed control actions that can be induced over given communication links. In a previous work we extended these results to state-dependent channels under various causality constraints. We further focused on implicit communication, where devices communicate through their actions and by observing each others' actions instead of over special dedicated communication channels. Our results are thus particularly relevant for crowded networks with scarce communication resources such as 5G networks.<br>
+    <br>
+
+    In this project, we analyzed the minimum amount of common randomness or broadcast communication rate required in  networks to establish the desired levels of coordination. In his seminal work, Wyner had shown that for the most basic canonical examples, this quantity is given by <i>Wyner's common information</i>. We solved  <a href=../Graczyk-IMA2020.pdf>more intricate networks and defined more general notions of common information</a>: <i>conditional and relevant common information</i>. For both measures we presented various operational meanings in terms of minimum common randomness or broadcast communication rates required to establish coordinated actions at the various distributed terminals. In this sense, our new notions of common information characterize fundamental notions of common information between random variables. 
+<br><br>
+
+
+<img src="Sensing.png" alt="Sensing_tradeoff" width="400" height="290">
+
+ In a parallel line of work, we considered the related application of <i>joint communication and sensing</i>, which currently attracts lots of attention, for example, in the context of autonomous vehicles. The underlying task here is traditional communication of data,  but implicitely, through the choice of the communication signals, the various terminals have to coordinate their actions so as to improve each others'  sensing performances. Our current collaborators, M. Kobayashi and G. Caire showed that in most systems there is an inherent information-theoretic tradeoff between the sensing and communication performances. We extended their works to <a href=../ITMehrasa2021.pdf><i>one-to-many broadcast systems</i></a>, for which we provided bounds on the <i>tradeoff regions</i> between the communication rates and the sensing performances that can simultaneously be achieved.  In particular, we characterized a class of broadcast channels where it is possible to simultaneously achieve optimal sensing and communication performances. For other broadcast systems, we fully described the tradeoff region between the two performances and we showed the suboptimality of simple scheduling schemes. The sensing performance is measured through average per-letter distortion, and thus relates to the notion of <i>weak coordination</i>. <br><br>
+
+    
+
+
+
+
+</p>
+
+<p>
+	<b><font size=+2>Age of Information</font></b>
+</p>
+<img src="Age_of_Info.png" alt="age_of_Information" width="400" height="200">
+<p>
+  A variety of applications require <i>timely updates</i>. For example,  mirror systems which store copies of centralized data-base entries,  distributed  news storage systems, or  web-crawling services, deal with time-varying contents and consequently have to decide when to update these contents. Our collaborator R. Yates has introduced the notion of <i>Age of Information</i> to measure the freshness of the contents: it is the time of each content file since it has been updated the last time.
+  In this project we considered a single-server system that generates the contents (for example the centralized data base or the newspaper) and of one or multiple caches with dedicated links to the server. Various users demand contents from the caches. The goal of the caches is to update their contents from the server so as to minimize the Age of Information of all the demanded files. Due to the limited communication rate on the server-cache links, the caches have to come up with smart scheduling schemes.<br><br>
+  
+<img src="aoi.png" alt="age_of_Information" width="400" height="230">
+
+  In our works we determined the optimal update-scheduling algorithm at the caches under various assumptions on the popularity of the files requested from the users. Under constant file-popularities and update times, we proved <a href=../yatesciblatyenerwigger-ISIT2017.pdf>optimality of the <i>square-root policy</i></a> that updates all files according to the square-root of their popularities. That means, a file which is twice as popular is updated square-root of two as often. In many contexts, popularity of files however evolve with time. We showed that the square-root policy (based on the average file popularity) is highly suboptimal, and <a href=../Tang-ITW2020.pdf>an optimal policy</a> accounts for the evolution of the file popularities over time. In our most recent work, we considered a scenario where the update duration of a file depends on its Age of Information. This models systems where in each time-interval a small portion of each file is either added or altered, and the amount of  communication required to update a file  depends on the time elapsed since the last update of this file. We present a near-optimal <a href=../Tang-WiOpt2020.pdf>scheduling algorithm for this problem with Age-dependent update durations</a>.
+  <br>
+  
+</p>
+
+
+
+
+
+</ul>
+<HR><BR>
+</div>
