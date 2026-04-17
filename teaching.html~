@@ -1,0 +1,132 @@
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <meta name="Description" content="Homepage of Michele Wigger">
+      <title>Michele Wigger's Presentations</title>
+<link rel="stylesheet" href="mwigger.css" type="text/css" />
+
+
+
+
+<STYLE TYPE="text/css">
+<!--
+BODY
+   {
+   Margin:20px 20px 20px 20px;
+  background:#fff;
+   color:black;
+   font-size:12pt;
+    }
+-->
+</STYLE>
+<STYLE TYPE="text/css">
+<!--
+TABLE
+   {
+  margin:20px 20px 20px 20px;
+   color:black;
+   font-size:12pt;
+   
+   }
+-->
+</STYLE>
+
+  </head>
+
+  <body>
+  
+
+
+<div id="sidebar">
+
+
+<div id="biopicture">
+</div>
+
+
+<div class="sidebarlist">
+
+<BR>
+<BR>
+
+<BR><BR>
+
+<a href="./index.html">Home</a><br />
+<br>
+<a href="./publications.html">Publications</a><br />
+<br>
+<A href="./presentations.html">Presentations</a><br />
+<br>
+<a href="./teaching.html">Teaching</a><br />
+<br>
+<a href="./group.html">Research Group</a><br />
+<br>
+<a href="./Context-Task-Oriented_Communication/Context-Task-Oriented_Communication_page.html">ERC Starting Grant</a><br><a href="./Context-Task-Oriented_Communication/Context-Task-Oriented_Communication_page.html">
+  Project CTO Com</a><br/>
+</div>
+
+
+<BR><BR><BR>
+<div id="biopicture">
+<img src="logo_TPT.png" width=162>
+</div>
+</div> <!-- end sidebar -->
+
+
+<div id="content">
+
+  <HR>
+  <BR><BR>
+<br>
+<font size=+1>
+  I'm teaching an introductionary course at the undergraduate level at Telecom Paris, as well as  various graduate courses as part of Telecom Paris' curriculum and of different Masters programmes such as the Master on Information Processing (Master MICAS,  Institut Polytechnique de Paris), the Master on Multimedia Networking (Master MN,  University of Paris-Saclay and Institut Polytechnique de Paris). Previously, I  also taught courses in the Master on Advanced Systems and Robotics (Master SAR, Sorbonne University), and in the Master on Digital Communication Systems (Ex-Master STN, Sorbonne University).</font>
+
+<br><BR>
+<br>
+<b><font size=+2>Courses Taught at Undergraduate Level</font></b>
+
+<BR>
+
+
+<p><li>
+   <b><font size=+1>Introduction to Digital Communications and Information Theory</b> <a href=polycopie.pdf>Lecture Notes</a> (in French), Spring Semesters 2011-2013, 2015-2022, 2024-2025.</font></li></p>
+
+
+<br> <br>
+<b><font size=+2>Courses  Taught at Graduate Level</font></b>
+
+<BR>
+
+<p><li>
+   <b><font size=+1>Information Theory</b>, Telecom Paris, Fall Semesters 2011, 2013, 2015, 2017, 2019, 2021 ;  Master STN, Fall Semesters 2011, 2013, 2015; Master SAR,  Fall Semester 2018; Master MICAS, Fall Semesters 2021 and 2022; Master MN, Fall Semesters 2019, 2021, and 2023. </font></li></p>
+<p><li>
+    <b><font size=+1>Introduction to Cryptography, Part I</b>, <a href=crypto_I.pdf>Slides</a>,  Master MICAS (IP Paris), Fall Semesters 2020, 2021,  2022, 2024.</font></li></p>
+<p><li>
+    
+    <b><font size=+1>Sequential Decision Making Processes, Part I</b>, <a href=MDP_I.pdf>Slides</a>, Master MICAS (IP Paris), Fall Semesters 2020, 2021, and 2024.</font></li></p>
+
+<p><li>
+    <b><font size=+1>Advanced Coding</b>, Telecom Paris, Spring Semesters 2010-2014.</font></li></p>
+
+<p><li>
+    <b><font size=+1>Introduction to Convex Optimization</b>, Telecom Paris, Spring  2016, and Master SAR, Fall Semester 202 Master MN, Fall Semesters 2023-2024</font></li></p>
+
+
+
+<p><li>
+    <b><font size=+1>Coded Caching</b>, <a href=CodedCaching.pdf>Slides</a>, Master MN, Fall Semesters 2017-2022 and 2023-2024.</font></li></p>
+
+
+<p><li>
+    <b><font size=+1>Multi-User Communication, Part I</b>, Telecom Paris, Spring  2016, and Master SAR, Fall Semester 2021</font></li></p>
+
+
+
+
+
+
+
+<BR><BR>
+<BR>
+
+
